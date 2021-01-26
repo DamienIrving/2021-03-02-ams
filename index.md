@@ -351,8 +351,6 @@ please preview your site before committing, and make sure to run
 <p>
   In order to avoid delays at the beginning of the workshop,
   we also ask that everyone follows the optional python package installation instructions at that page.
-  You should select the "default" instructions for your operating system
-  unless you already have experience using conda environments.
 </p>
 
 <p>

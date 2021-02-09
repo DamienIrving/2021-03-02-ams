@@ -57,7 +57,6 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -139,6 +138,11 @@ This block displays the date and links to Google Calendar.
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
+
+<p id="registration">
+  <strong>Registration:</strong>
+  Tickets can be purchased at the <a href="https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses1/python-for-climate-and-meteorology/">AMS website</a>.
+</p>
 
 {% comment %}
 SPECIAL REQUIREMENTS
